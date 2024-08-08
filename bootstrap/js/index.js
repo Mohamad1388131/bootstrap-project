@@ -1,0 +1,1 @@
+$(".popover").popover("show");
